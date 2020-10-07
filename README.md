@@ -1,4 +1,4 @@
-### Hi there 👋
+Repo for fire eelec Builds and Wizard
 
 <!--
 **fireelec/fireelec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
